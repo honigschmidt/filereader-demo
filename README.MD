@@ -1,0 +1,1 @@
+Example of using JavaScript's FileReader interface. Check screenshots for details.

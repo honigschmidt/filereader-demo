@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.8em;
+    color: black;
+}
+
+#dd_area {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: justify;
+    overflow: auto;
+}
+
+.dd_init {
+    justify-content: center;
+    align-items: center;
+}
+
+.selected {
+    background-color: lightgray;
+}
+
+#button_placeholder {
+    width: 400px;
+    box-sizing: border-box;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
